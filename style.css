@@ -1,13 +1,13 @@
 html {
   font-size: 10px;
-  background: url(http://i.imgur.com/b9r5sEL.jpg) bottom center;
+  background: url(https://i.pinimg.com/originals/ca/f4/03/caf403ae725ebe4251fbc85b738cfa26.jpg) bottom center;
   background-size: cover;
 }
 
 body,html {
   margin: 0;
   padding: 0;
-  font-family: sans-serif;
+  font-family: 'Lilita One', cursive;
 }
 
 .keys {
@@ -44,8 +44,8 @@ kbd {
 }
 
 .sound {
-  font-size: 1.2rem;
+  font-size: 2rem;
   text-transform: uppercase;
   letter-spacing: .1rem;
-  color: #ffc600;
+  color: #f4cb39;
 }
